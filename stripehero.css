@@ -462,3 +462,9 @@ li{
   padding: 0 15vw 0 15vw;
   box-sizing: border-box;
 }
+
+@media (max-width:400px) {
+  .hero{
+    padding: 0 20px 0 20px;
+  }
+}

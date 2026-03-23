@@ -9,6 +9,8 @@ body{
     justify-content: center;
     background: #F6F9FC;
     line-height: 1.6;
+    padding: 100px;
+    gap: 64px;
     
     
     
@@ -462,4 +464,38 @@ li{
   .hero{
     padding: 0 20px 0 20px;
   }
+}
+
+.norris-effect{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width:100%;
+  background:white;
+  box-sizing: border-box;
+}
+
+.lue{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width:100%;
+  background:white;
+  box-sizing: border-box;
+  padding: 100px;
+
+}
+
+.clerk-animation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width:100%;
+  background:white;
+  box-sizing: border-box;
+  padding: 200px;
+  background: black;
 }
